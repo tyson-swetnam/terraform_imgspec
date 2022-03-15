@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://tyson-swetnam.github.io/terraform_imgspec/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tyson-swetnam.github.io/terraform_imgspec/deploy/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tyson-swetnam.github.io/terraform_imgspec/install/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tyson-swetnam.github.io/terraform_imgspec/manage/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tyson-swetnam.github.io/terraform_imgspec/what_is_cyverse/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tyson-swetnam.github.io/terraform_imgspec/what_is_imgspec/</loc>
+         <lastmod>2022-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
